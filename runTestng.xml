@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+  <test name="SeleniumDemo">
+    <classes>
+      <class name="com.meyoung.day03.GridTest">
+        <methods>
+          <include name="testGrid2"/>
+        </methods>
+      </class> <!-- com.meyoung.day03.GridTest -->
+    </classes>
+  </test> <!-- SeleniumDemo -->
+</suite> <!-- Default Suite -->
