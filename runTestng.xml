@@ -3,10 +3,8 @@
 <suite name="Default Suite">
   <test name="SeleniumDemo">
     <classes>
-      <class name="com.meyoung.day03.GridTest">
-        <methods>
-          <include name="testGrid2"/>
-        </methods>
+      <class name="com.meyoung.day01.TestNGDemo1">
+
       </class> <!-- com.meyoung.day03.GridTest -->
     </classes>
   </test> <!-- SeleniumDemo -->
